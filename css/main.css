@@ -145,7 +145,11 @@ header {
     background-color: white;
     box-shadow: 2px 2px 18px #ddd;
 }
-
+header h2 {
+    text-align: left ;
+    font-size: larger;
+    color: black;
+}
 header .container {
     display: flex;
     justify-content: space-between;
